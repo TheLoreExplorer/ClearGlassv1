@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "ClearGlass.dll",
+  "author": "The Lore Explorer",
+  "name": "ClearGlass",
+  "uniqueName": "The Lore Explorer.ClearGlass",
+  "version": "0.1.0",
+  "owmlVersion": "2.7.2",
+  "dependencies": []
+}
